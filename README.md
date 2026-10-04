@@ -1674,11 +1674,11 @@ Después de cada operación, las tablas y selectores correspondientes se actuali
 ## Repositorio GitHub
 
 ```plaintext
-REEMPLAZAR_POR_URL_DEL_REPOSITORIO
+https://github.com/enunezj/SpeedFast-CRUD
 ```
 
 ---
 
 ## Fecha de Entrega
 
-04/10/2026
+05/10/2026
